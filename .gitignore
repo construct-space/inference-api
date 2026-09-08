@@ -1,0 +1,5 @@
+.env
+inference
+*.log
+logs/
+*.jsonl.uploaded
